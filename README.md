@@ -11,7 +11,7 @@
 <br>
 <br>
 <a href="https://discord.com/users/756060979896385606">
-        <img src="https://lanyard-profile-readme.vercel.app/api/756060979896385606?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+        <img src="https://lanyard-profile-readme.vercel.app/api/756060979896385606?borderRadius=25px&idleMessage=Probably%20doing%20something%20else..." />
     </a>
 </p>
 &nbsp;
