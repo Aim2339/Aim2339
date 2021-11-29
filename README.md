@@ -23,9 +23,6 @@
     <a href="https://discord.com/users/756060979896385606">
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
-    &nbsp;
-    <a href="https://open.spotify.com/user/bzf5car9f3tgghezc7keq9tyo">
-        <img src="./assets/icons/other/spotify-solid.svg/" width="25px" />
     
 </p>
 <hr/>
