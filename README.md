@@ -30,6 +30,8 @@
     <a href="https://github.com/Aim2339/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Aim2339&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
   </a> 
+    
+
   <a href="https://github.com/Aim2339/">
         <img src="https://github-readme-stats.vercel.app/api?username=Aim2339&show_icons=true&theme=gruvbox" />
   </a> 
@@ -38,6 +40,14 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aim2339&theme=gruvbox&langs_count=8&layout=compact" />
   </a> 
 </p>
+
+<p align="center"
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+    
 
 <!---
 Aim2339/Aim2339 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
