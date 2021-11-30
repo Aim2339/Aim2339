@@ -33,6 +33,8 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Aim2339&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
   </a> 
     
+---
+<p align="center">
 
   <a href="https://github.com/Aim2339/">
         <img src="https://github-readme-stats.vercel.app/api?username=Aim2339&show_icons=true&theme=gruvbox" />
