@@ -2,7 +2,7 @@
     Hello there! I am <strong>Aim</strong>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 <p align="center">
-    I am a High School Student who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+    I am a High School Student who took up coding recently, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <br>
 <br>
 
@@ -37,11 +37,11 @@
 <p align="center">
 
   <a href="https://github.com/Aim2339/">
-        <img src="https://github-readme-stats.vercel.app/api?username=Aim2339&show_icons=true&theme=gruvbox" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Aim2339&show_icons=true&theme=tokyonight" />
   </a> 
 <br>
 <a href="https://github.com/Aim2339/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aim2339&theme=gruvbox&langs_count=8&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aim2339&theme=tokyonight&langs_count=8&layout=compact" />
   </a> 
 </p>
 
