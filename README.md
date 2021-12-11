@@ -2,9 +2,11 @@
     Hello there! I am <strong>Aim</strong>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
 <p align="center">
-    I am a High School Student who took up coding recently, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+    I am a High School Student who took up coding recently, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="55px"></h2>
 <br>
 <br>
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <a href="https://github.com/Aim2339/">
         <img src="https://komarev.com/ghpvc/?username=Aim2339&color=blue" />
@@ -34,6 +36,7 @@
   </a> 
     
 ---
+    
 <p align="center">
 
   <a href="https://github.com/Aim2339/">
@@ -47,19 +50,20 @@
 
 ---
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<p align="center">
+
     
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Aim = {
   pronouns: "he" | "him",
-  code: [Javascript, Python, Java],
-  tools: [Node, Docker],
+  code: [Javascript, Python],
+  tools: [Node, Docker, GitHub],
 }
 ```
     
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+#### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="40px"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
 
 ---
 
