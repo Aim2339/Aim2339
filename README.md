@@ -25,6 +25,10 @@
     <a href="https://discord.com/users/756060979896385606">
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
+    &nbsp;
+    <a href="https://discord.com/users/756060979896385606">
+        <img src="./assets/icons/other/spotify-solid.svg/" width="25px" />
+    </a>
     
 </p>
 <hr/>
