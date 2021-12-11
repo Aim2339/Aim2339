@@ -6,8 +6,6 @@
 <br>
 <br>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 <a href="https://github.com/Aim2339/">
         <img src="https://komarev.com/ghpvc/?username=Aim2339&color=blue" />
   </a> 
