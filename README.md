@@ -54,7 +54,6 @@
 
 <p align="center">
 
-    
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -66,6 +65,10 @@ const Aim = {
 ```
     
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="40px"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
+
+---
+    
+<img src="https://imgur.com/rilHVxA.png"/> 
 
 ---
 
