@@ -37,6 +37,8 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Aim2339&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
   </a> 
     
+[![Aim's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aim2339&theme=react-dark)](https://github.com/Aim2339/)
+
 ---
     
 <p align="center">
