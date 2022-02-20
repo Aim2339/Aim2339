@@ -34,10 +34,10 @@
 <hr/>
 <p align="center">
     <a href="https://github.com/Aim2339/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Aim2339&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Aim2339&&count_private=true&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats)" />
   </a> 
     
-[![Aim's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aim2339&theme=react-dark)](https://github.com/Aim2339/)
+[![Aim's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aim2339&theme=react-dark&count_private=true)](https://github.com/Aim2339/)
 
 ---
     
