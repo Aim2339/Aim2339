@@ -34,7 +34,7 @@
 <hr/>
 <p align="center">
     <a href="https://github.com/Aim2339/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Aim2339&&count_private=true&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats)" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Aim2339&&count_private=true&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=16c410&ring=16c410&stroke=FFFFFFFF)](https://git.io/streak-stats)" />
   </a> 
     
 [![Aim's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aim2339&theme=react-dark&count_private=true)](https://github.com/Aim2339/)
@@ -54,19 +54,7 @@
 
 ---
 
-<p align="center">
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const Aim = {
-  pronouns: "he" | "him",
-  code: [Javascript, Python],
-  tools: [Node, Docker, GitHub],
-}
-```
-    
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="40px"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aim2339&layout=compact&theme=algolia" alt="Aim2339" /></a> </p>
 
 ---
     
