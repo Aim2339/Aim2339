@@ -37,7 +37,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Aim2339&&count_private=true&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=16c410&ring=16c410&stroke=FFFFFFFF)](https://git.io/streak-stats)" />
   </a> 
     
-[![Aim's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aim2339&theme=react-dark&count_private=true)](https://github.com/Aim2339/)
+[![Aim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aim2339&theme=react-dark&count_private=true)](https://github.com/Aim2339/)
 
 ---
     
