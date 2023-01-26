@@ -54,7 +54,7 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aim2339&layout=compact&theme=algolia" alt="Aim2339" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aim2339&layout=compact&theme=tokyonight" alt="Aim2339" /></a> </p> 
 
 ---
     
