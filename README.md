@@ -53,7 +53,7 @@
  
  ---
 
-[![Aim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aim2339&theme=react-dark&count_private=true)](https://github.com/Aim2339/)
+[![Aim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aim2339&theme=react-dark&count_private=true)](https://github.com/Aim2339/)
 
 ---
     
