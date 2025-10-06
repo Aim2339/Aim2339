@@ -15,9 +15,9 @@
 <a>
        <picture> <img src="https://lanyard-profile-readme.vercel.app/api/756060979896385606?borderRadius=25px&idleMessage=Probably%20doing%20something%20else..." /> </picture>
     </a>
-</p>
+</p>        
 
-<hr/>
+<hr/>    
 <p align="center">
     <a>
        <picture> <img src="https://github-readme-streak-stats.herokuapp.com?user=Aim2339&&count_private=true&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=16c410&ring=16c410&stroke=FFFFFFFF)](https://git.io/streak-stats)" /> </picture>
@@ -36,6 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" width="42" alt="pycharm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-original.svg" height="30" width="42" alt="gitkraken logo"  />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
@@ -64,12 +65,3 @@
 <p align="center"> <a> <picture><img src="https://github-profile-trophy.vercel.app/?username=Aim2339&layout=compact&theme=tokyonight" alt="Aim2339" /> </picture></a> </p>
 
 ---
-
-<picture><img src="https://imgur.com/rilHVxA.png"/> </picture>
-
----
-
-<!---
-Aim2339/Aim2339 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
