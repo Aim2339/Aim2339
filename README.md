@@ -1,68 +1,71 @@
 <h2 align="center">
-    Hello there! I am <strong>Aim</strong>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    Hello there! I am <strong>Aim</strong>! <picture> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </picture>
 </h2>
 <p align="center">
-    I am a B.Tech CSE student @VIT Bhopal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="55px"></h2>
+    I am a B.Tech CSE student @VIT Bhopal <picture> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="55px"> </picture></h2>
 <br>
 <br>
 
-<a href="https://github.com/Aim2339/">
-        <img src="https://komarev.com/ghpvc/?username=Aim2339&color=blue" />
+<a>
+       <picture> <img src="https://komarev.com/ghpvc/?username=Aim2339&color=blue" /> </picture>
 </a>
 <br>
 <br>
 
-<a href="https://discord.com/users/756060979896385606">
-        <img src="https://lanyard-profile-readme.vercel.app/api/756060979896385606?borderRadius=25px&idleMessage=Probably%20doing%20something%20else..." />
+<a>
+       <picture> <img src="https://lanyard-profile-readme.vercel.app/api/756060979896385606?borderRadius=25px&idleMessage=Probably%20doing%20something%20else..." /> </picture>
     </a>
 </p>
 
 <hr/>
 <p align="center">
-    <a href="https://github.com/Aim2339/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Aim2339&&count_private=true&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=16c410&ring=16c410&stroke=FFFFFFFF)](https://git.io/streak-stats)" />
-  </a> 
-
+    <a>
+       <picture> <img src="https://github-readme-streak-stats.herokuapp.com?user=Aim2339&&count_private=true&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=16c410&ring=16c410&stroke=FFFFFFFF)](https://git.io/streak-stats)" /> </picture>
+  </a>
 
 <div align="center">
+    <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+    </picture>
 <br>
 <br>
+    <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" width="42" alt="pycharm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  </picture>
 </div>
  
  ---
 
-[![Aim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aim2339&theme=react-dark&count_private=true)](https://github.com/Aim2339/)
+![Aim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aim2339&theme=react-dark&count_private=true)
 
 ---
-    
+
 <p align="center">
 
-  <a href="https://github.com/Aim2339/">
-        <img src="https://github-readme-stats.vercel.app/api?username=Aim2339&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" />
+  <a>
+        <picture><img src="https://github-readme-stats.vercel.app/api?username=Aim2339&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" /></picture>
   </a> 
 <br>
-<a href="https://github.com/Aim2339/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aim2339&theme=tokyonight&langs_count=8&layout=compact&count_private=true&show_icons=true" />
+<a>
+      <picture>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aim2339&theme=tokyonight&langs_count=8&layout=compact&count_private=true&show_icons=true" /> </picture>
   </a> 
 </p>
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aim2339&layout=compact&theme=tokyonight" alt="Aim2339" /></a> </p> 
+<p align="center"> <a> <picture><img src="https://github-profile-trophy.vercel.app/?username=Aim2339&layout=compact&theme=tokyonight" alt="Aim2339" /> </picture></a> </p>
 
 ---
-    
-<img src="https://imgur.com/rilHVxA.png"/> 
+
+<picture><img src="https://imgur.com/rilHVxA.png"/> </picture>
 
 ---
 
