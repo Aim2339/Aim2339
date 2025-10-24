@@ -1,20 +1,14 @@
 <h2 align="center">
-    Hello there! I am <strong>Aim</strong>! <picture> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </picture>
+    Hi there! I am Aim! <picture> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </picture>
 </h2>
 <p align="center">
-    I am a B.Tech CSE student @VIT Bhopal <picture> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="55px"> </picture></h2>
+    I am a B.Tech CSE student @VIT Bhopal <picture> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> </picture></h2>
 <br>
 <br>
 
 <a>
        <picture> <img src="https://komarev.com/ghpvc/?username=Aim2339&color=blue" /> </picture>
 </a>
-<br>
-<br>
-
-<a>
-       <picture> <img src="https://lanyard-profile-readme.vercel.app/api/756060979896385606?borderRadius=25px&idleMessage=Probably%20doing%20something%20else..." /> </picture>
-    </a>
 </p>        
 
 <hr/>    
@@ -43,10 +37,6 @@
   </picture>
 </div>
  
- ---
-
-![Aim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aim2339&theme=react-dark&count_private=true)
-
 ---
 
 <p align="center">
