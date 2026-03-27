@@ -30,4 +30,4 @@ I hope to build strong technical skills and work on real-world projects during m
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Aim2339  
-- LinkedIn: (Add your LinkedIn link)
+- LinkedIn: https://www.linkedin.com/in/aarav-sciju-93863939a/
