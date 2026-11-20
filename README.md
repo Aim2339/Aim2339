@@ -2,7 +2,7 @@
 
 B.Tech CSE student @ VIT Bhopal.
 
-Still figuring out exactly what I want to specialize in.<br>**Currently:** ppicking up C++ and a few certifications here and there
+Still figuring out exactly what I want to specialize in.<br>**Currently:** Learning C, Java, C++ and a few certifications here and there
 
 ![profile views](https://komarev.com/ghpvc/?username=Aim2339&color=blue)
 
@@ -28,6 +28,14 @@ Still figuring out exactly what I want to specialize in.<br>**Currently:** ppick
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aim2339&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aim2339&theme=tokyonight&langs_count=8&layout=compact&count_private=true)
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aim2339&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+    </td>
+    <td width="20"></td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aim2339&theme=tokyonight&langs_count=8&layout=compact&count_private=true" alt="Top languages" />
+    </td>
+  </tr>
+</table>
